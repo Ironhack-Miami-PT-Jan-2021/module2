@@ -1,0 +1,24 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ironhack-Miami-PT-Jan-2021/module2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ironhack-Miami-PT-Jan-2021/module2/issues"
+  },
+  "homepage": "https://github.com/Ironhack-Miami-PT-Jan-2021/module2#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^4.4.1"
+  }
+}

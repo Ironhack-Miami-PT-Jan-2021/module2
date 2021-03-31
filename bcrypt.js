@@ -20,4 +20,4 @@ const myPassword = "password1";
 //   console.timeEnd(`Time of the hash ${salt}`);
 // }
 
-console.log(console.Console);
+// console.log(console.Console);
